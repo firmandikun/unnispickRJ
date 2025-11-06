@@ -24,7 +24,7 @@ export default function ProductDetail() {
           to={-1 as any}
           className="absolute top-3 left-3 bg-white/90 rounded-full px-3 py-1 text-sm border"
         >
-          ← Kembali
+          Kembali
         </Link>
       </div>
       <div className="p-5 space-y-2">
