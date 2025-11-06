@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* font & baseline */
+:root { color-scheme: light; }
+html, body, #root { height: 100vh; overflow: hidden; }
+
+
+
+/* Scrollbar minimal untuk mobile shell */
+.mobile-scroll::-webkit-scrollbar { width: 0; height: 0; }
